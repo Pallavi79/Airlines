@@ -4,3 +4,6 @@
 [submodule "Flight-Booking-Service"]
 	path = Flight-Booking-Service
 	url = git@github.com:Pallavi79/Flight-Booking-Service.git
+[submodule "Flight-Auth-Service"]
+	path = Flight-Auth-Service
+	url = git@github.com:Pallavi79/Flight-Auth-Service.git
