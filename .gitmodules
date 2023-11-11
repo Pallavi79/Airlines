@@ -7,3 +7,6 @@
 [submodule "Flight-Auth-Service"]
 	path = Flight-Auth-Service
 	url = git@github.com:Pallavi79/Flight-Auth-Service.git
+[submodule "Flight-Notification-Service"]
+	path = Flight-Notification-Service
+	url = git@github.com:Pallavi79/Flight-Notification-Service.git
